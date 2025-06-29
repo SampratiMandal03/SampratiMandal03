@@ -1,16 +1,19 @@
-## Hi there 👋
+ ## Hi there 👋, I'm Samprati Mandal
+ 
+🔭 I’m currently working on Myself
 
-<!--
-**SampratiMandal03/SampratiMandal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning: Backend Development 
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on Front End Development, Deep learning projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with Backend Development 
+
+💬 Ask me about Front-End & Deep learning projects
+
+📫 How to reach me: sampratimandal03@gmail.com
+
+⭐ Hobbies: Passionate about nature photography 
+
+⚡ Fun fact: I love art and craft
+
+🥷🏽 Programming Languages: Front end development(HTML,CSS,JavaScript,PHP),data analytics with R, Java programing, DBMS, Digital logic design
